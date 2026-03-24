@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Background -->
+    <color name="bg_dark">#0F1117</color>
+    <color name="card_bg">#1A1D27</color>
+    <color name="divider">#2A2D3A</color>
+
+    <!-- Accent -->
+    <color name="accent_green">#00E676</color>
+    <color name="accent_green_dim">#1A4A30</color>
+
+    <!-- Text -->
+    <color name="text_primary">#EAEAEA</color>
+    <color name="text_secondary">#7A7D8C</color>
+
+    <!-- Switch -->
+    <color name="switch_track">#2A2D3A</color>
+
+    <!-- Status -->
+    <color name="color_cool">#4CAF50</color>
+    <color name="color_warm">#FF9800</color>
+    <color name="color_hot">#FF5722</color>
+    <color name="color_critical">#F44336</color>
+
+    <!-- System -->
+    <color name="colorPrimary">#00E676</color>
+    <color name="colorPrimaryVariant">#00B248</color>
+    <color name="colorOnPrimary">#0F1117</color>
+    <color name="colorSecondary">#00E676</color>
+    <color name="colorOnSecondary">#0F1117</color>
+    <color name="colorSurface">#1A1D27</color>
+    <color name="colorOnSurface">#EAEAEA</color>
+    <color name="colorBackground">#0F1117</color>
+    <color name="colorOnBackground">#EAEAEA</color>
+    <color name="colorError">#F44336</color>
+    <color name="colorOnError">#FFFFFF</color>
+</resources>

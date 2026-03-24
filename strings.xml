@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Game Booster</string>
+    <string name="boost">BOOST</string>
+    <string name="boosting">Boosting…</string>
+    <string name="game_library">Game Library</string>
+    <string name="dnd_label">Do Not Disturb</string>
+    <string name="fps_overlay_label">FPS Overlay</string>
+    <string name="gaming_mode_label">Gaming Mode</string>
+    <string name="no_games_found">No games detected.\nInstall games from the Play Store.</string>
+    <string name="grant_dnd_permission">Grant Do Not Disturb access in Settings</string>
+    <string name="grant_overlay_permission">Grant \'Display over other apps\' permission first</string>
+</resources>
